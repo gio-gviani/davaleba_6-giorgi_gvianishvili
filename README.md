@@ -1,1 +1,1 @@
-# davaleba_6-giorgi_gvianishvili
+# lecture-10

@@ -1,0 +1,132 @@
+.conteiner {
+  max-width: 1240px;
+  width: 100%;
+  margin: 0 auto;
+
+}
+.header_flex {
+  height: 90px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+nav ul {
+  width: 600px;
+  display: flex;
+
+  justify-content: space-between;
+}
+li a {
+  color: #636060;
+  font-family: Helvetica;
+  font-size: 17px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+/*  */
+.s-1 {
+  height: 660px;
+  background-image: url(../img/pic_1.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 84px;
+}
+
+.text_div h2 {
+  color: #fff;
+  font-family: Helvetica;
+  font-size: 79px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  margin-bottom: 30px;
+}
+.text_div h5 {
+  text-align: center;
+
+  color: #fff;
+  font-family: Helvetica;
+  font-size: 19px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+/* section 2 */
+.s-2 {
+  margin-bottom: 100px;
+}
+.s-2flex {
+  display: flex;
+  justify-content: space-between;
+  gap: 30px;
+}
+
+.infowrapper {
+  width: 235px;
+}
+
+.infowrapper h3 {
+  color: #636060;
+  font-family: Helvetica;
+  font-size: 17px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-bottom: 9px;
+}
+.infowrapper h2 {
+  color: #010101;
+  font-family: Helvetica;
+  font-size: 28px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-bottom: 37px;
+}
+.infowrapper p {
+  color: #636060;
+  font-family: Helvetica;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+.cardwrepper {
+    max-width: 924px;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  flex-direction: row;
+  align-items: flex-start;
+  flex-wrap: wrap;
+}
+.card {
+  width: 286px;
+  margin-bottom: 60px;
+}
+.card img {
+  width: 100%;
+  margin-bottom: 23px;
+}
+.card h3 {
+  color: #343232;
+  font-family: Helvetica;
+  font-size: 19px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-bottom: 9px;
+}
+.card p {
+  color: #636060;
+  font-family: Helvetica;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
